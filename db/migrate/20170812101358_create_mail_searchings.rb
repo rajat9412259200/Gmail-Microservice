@@ -8,5 +8,6 @@ class CreateMailSearchings < ActiveRecord::Migration[5.1]
       t.jsonb  :data
       t.timestamps
     end
+    
   end
 end

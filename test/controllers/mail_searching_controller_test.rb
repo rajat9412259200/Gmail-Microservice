@@ -1,5 +1,6 @@
 require 'test_helper'
 
+
 class MailSearchingControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true

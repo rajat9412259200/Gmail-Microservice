@@ -5,6 +5,7 @@ require 'googleauth'
 require 'googleauth/stores/file_token_store'
 require 'mail'
 
+
    class GmailAccess
        def initialize(email,oauth_token)
           begin

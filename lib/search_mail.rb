@@ -3,7 +3,6 @@ require 'google/api_client/client_secrets'
 require 'nokogiri'
 require 'json'
 
-
 class SearchMail
   CLIENT_ID = '15627086266-cinmktkmj02agftt7dgv27ab4gai6sbt.apps.googleusercontent.com'
 	CLIENT_SECRET = 'wCH-gYWg2HOWnNnFT5tyuBT5'
